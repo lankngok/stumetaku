@@ -1,0 +1,61 @@
+.sp{
+    text-align: center;
+}
+.sp1{
+    display: flex;
+    margin-left: 100px;
+}
+.nam{
+    background-image: url(https://cdn.tgdd.vn//News/0//off-white-845x500.jpg);
+    background-size: cover  ;
+    width: 400px;
+    height: 400px;
+    color: white;
+    font-size: larger;
+
+}
+.nu {
+    background-image: url(https://btsneaker.vn/wp-content/uploads/2021/10/nhung-mau-giay-the-thao-nu-nike-chinh-hang-duoc-gioi-tre-yeu-thich.jpg);
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    color:black;
+    font-size: larger;
+    margin-left: 20px;
+    
+}
+.nam h1{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.nu h1{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.sp2{
+    background-color: black;
+    width: 300px;
+    height: 10px;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.sp3{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.spp img{
+    width: 200px;
+    height: 200px;
+}
+.spp p{
+    text-align: center;
+}
+.spp{
+    margin-left: 25px;
+    border: 1px solid black;
+}
+.sp4{
+    text-align: center;
+    margin-top: 20px;
+}

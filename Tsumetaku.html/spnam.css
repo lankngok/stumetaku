@@ -1,0 +1,45 @@
+.ip-cus{
+    border: none;
+    outline: none
+}
+.form-cus{
+    border: 1px solid black;
+    width: 225px;
+    padding: 10px 30px;
+    border-radius: 20px; 
+}
+.loc{
+    padding-top: 20px   ;
+    margin-left: 20px;
+}
+.locc{
+    padding: 10px 25px;
+    width: 225px;
+    margin-left: 20px;
+}
+.nam{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 30px;
+}
+.nam2{
+    display: flex;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.spp img{
+    width: 200px;
+    height: 200px;
+}
+.spp p{
+    text-align: center;
+}
+.spp{
+    margin-left: 25px;
+    border: 1px solid black;
+}
+.man{
+    display: flex;
+}
